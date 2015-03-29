@@ -1,0 +1,60 @@
+var geojson = {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-81.190102,37.78954]
+            },
+            "properties": {
+              "phoneFormatted": "(304) 256-6900",
+              "phone": "3042566900",
+              "address": "800 New River Town Center",
+              "city": "Beckley",
+              "country": "United States",
+              "crossStreet": "Vocational Rehabilitation",
+			  "agency":"WV Division of Rehabilitation Services",
+              "Zip": "25801",
+              "state": "WV"
+            }
+          },
+		  {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-81.581721,38.321099]
+            },
+            "properties": {
+              "phoneFormatted": "(304) 356-2371",
+              "phone": "3043562371",
+              "address": "4701 MacCorkle Avenue SE",
+              "city": "Charleston",
+              "country": "United States",
+              "crossStreet": "Vocational Rehabilitation",
+			  "agency":"WV Division of Rehabilitation Services",
+              "Zip": "25304",
+			  "marker-size":"small",
+              "state": "WV"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-79.856733,38.939379]
+            },
+            "properties": {
+              "phoneFormatted": "(304) 637-0205",
+              "phone": "3046370205",
+              "address": "1025 North Randolph Avenue",
+              "city": "Elkins",
+              "country": "United States",
+              "crossStreet": "Vocational Rehabilitation",
+			  "agency":"WV Division of Rehabilitation Services",
+              "Zip": "26241",
+              "state": "WV"
+            }
+          }
+        ]
+      }
